@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisojibe&label=Profile%20views&color=0e75b6&style=flat" alt="louisojibe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louisojibe" alt="louisojibe" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, Java**
