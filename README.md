@@ -1,8 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)](https://github.com/louisojibe)
 <h1 align="center">Hi 👋, I'm Ojibe Louis</h1>
 <h3 align="center">Experienced mobile application developer proficient in native Android development, Flutter, Dart, and Java back-end development.</h3>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisojibe&label=Profile%20views&color=0e75b6&style=flat" alt="louisojibe" /> </p>
 
