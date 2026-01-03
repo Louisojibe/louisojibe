@@ -1,8 +1,12 @@
 <div align="center">
   <a href="https://github.com/louisojibe">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif" alt="MasterHead" width="100%" height="auto">
+    <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+    alt="Backend Developer – Java, Spring, ASP.NET Core" 
+    width="100%" 
+    height="auto">
   </a>
-  <h1>Hi 👋, I'm Ojibe Louis</h1>
+  <h1>Hi, I'm Ojibe Louis</h1>
 </div>
 
 ### Experienced Mobile and Backend Developer
@@ -26,6 +30,7 @@ Backend-focused developer building scalable systems with Java (Spring & Jakarta 
 ### What I'm Learning & Exploring
 
 - I'm currently expanding my expertise in **Flutter** to build more performant and complex cross-platform applications.
+- I'm also learning .NET / ASP.NET Core for backend development
 
 ---
 
